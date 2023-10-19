@@ -1,0 +1,5 @@
+name: socket-communicator-plugin
+main: me.marquez.socketplugin.SocketCommunicatorPlugin
+version: ${version}
+api-version: 1.19
+author: DevMarquez
