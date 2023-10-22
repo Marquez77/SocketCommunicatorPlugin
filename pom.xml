@@ -6,7 +6,7 @@
 
     <groupId>me.marquez</groupId>
     <artifactId>socket-communicator-plugin</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>pom</packaging>
     <modules>
         <module>socket-communicator-paper</module>
@@ -30,7 +30,7 @@
         <dependency>
             <groupId>me.marquez</groupId>
             <artifactId>socket-communication-core</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
             <scope>compile</scope>
         </dependency>
     </dependencies>
